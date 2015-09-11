@@ -1,0 +1,26 @@
+{
+  "name": "Promises-js",
+  "version": "1.0.0",
+  "description": "Experiments with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'fail -- no tests!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mattfenwick/Promises-js"
+  },
+  "keywords": [
+    "promises",
+    "async"
+  ],
+  "author": "Matt Fenwick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfenwick/Promises-js/issues"
+  },
+  "homepage": "https://github.com/mattfenwick/Promises-js",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
